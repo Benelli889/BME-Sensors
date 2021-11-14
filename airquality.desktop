@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=airquality
+Comment=Start airquality compositor
+NoDisplay=true
+Exec=sudo sh /home/pi/Projects/bme680/examples/airquality.sh
+
