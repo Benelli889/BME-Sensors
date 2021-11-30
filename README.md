@@ -8,3 +8,8 @@ BME280:
 
 sudo crontab -e
 @reboot bash /home/pi/bme280-python/examples/BME280.sh
+
+
+BME680:
+-------
+/etc/xdg/autostart
